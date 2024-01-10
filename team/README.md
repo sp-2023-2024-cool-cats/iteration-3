@@ -1,4 +1,10 @@
-# New Alexandria, Team Presentation (SWOT Analysis & User Stories)
+# New Alexandria, Team Presentation (Software Aspects)
+Представяне на работата на всеки един член на екипа по отношение на ролята му в отборната проекто итерация 3.<br>
+
+**Линк към отборната презентация в Google Drive:**<br>
+https://drive.google.com/file/d/1lLDC25ZNH1ycdltNiWbyaWghcHXOQisv/view?usp=sharing
+
+# SWOT Analysis & User Stories
 
 [<img src="https://github.com/NikolManolova07/NumbersToWordsEN/assets/83454633/36e676be-51cd-4c00-81b0-642f53268070" width="100%">](https://youtu.be/mI_KyuBbj6Q?si=xyHkckMhkrXFdJ3l "New Alexandria, Team Presentation (SWOT Analysis & User Stories)")
 
