@@ -1,7 +1,7 @@
 # New Alexandria, Team Presentation (Software Aspects)
 Представяне на работата на всеки един член на екипа по отношение на ролята му в отборната проекто итерация 3.<br>
 
-[<img src="https://github.com/NikolManolova07/NikolManolovaCalculator/assets/83454633/576e620f-a6e2-43f6-be7f-aa1c22bd3f8b" width="100%">](https://youtu.be/mI_KyuBbj6Q?si=xyHkckMhkrXFdJ3l "New Alexandria, Team Presentation (SWOT Analysis & User Stories)")
+[<img src="https://github.com/NikolManolova07/NikolManolovaCalculator/assets/83454633/576e620f-a6e2-43f6-be7f-aa1c22bd3f8b" width="100%">](https://youtu.be/X-Zn_j5I8z8?si=tmgzgywH8Mo9bQBc "New Alexandria, Team Presentation (Software Aspects)")
 
 **Инструкции:** Изображението представлява линк към отборната презентация, качена в YouTube, с представяне на работата на всеки един член на екипа.<br>
 
